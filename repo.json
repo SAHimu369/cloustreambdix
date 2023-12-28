@@ -1,0 +1,8 @@
+{
+    "name": "BDIX",
+    "description": "BDIX",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://github.com/SAHimu369/cloustreambdix/blob/builds/plugins.json"
+    ]
+}
